@@ -5,8 +5,11 @@ This Shiny app allows users to perform linear regression analysis using their ow
 Features
 File Upload: Supports uploading datasets in CSV, TXT, and XLSX formats.
 Variable Selection: Allows dynamic selection of numeric variables for the outcome and predictors.
+
 Linear Regression Modeling: Fits a linear regression model using selected numeric predictors and displays the model summary.
+
 Prediction on New Data: Predicts outcomes using a new dataset and displays the results.
+
 Data Visualization: Plots a regression line if the model has a single predictor.
 Prerequisites
 To run this app locally, you need to have the following installed:
